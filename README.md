@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...censorship evasion
 - 🌱 I’m currently learning k8s
 - 💞️ I’m looking to collaborate on fan qiang
-- 📫 How to reach me mingjie.d.d@gmail.com
+- 📫 How to reach me github
 - 😄 Pronouns: HE
 - ⚡ Fun fact: 稳定就是一切，速度才是第二位的。最稳定的翻墙机场 https://yifancloud.online
 
