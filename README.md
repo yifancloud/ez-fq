@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fan qiang
 - 📫 How to reach me github
 - 😄 Pronouns: HE
-- ⚡ Fun fact: 稳定就是一切，速度才是第二位的。最稳定的翻墙机场 https://yifancloud.online
+- ⚡ Fun fact: 稳定就是一切，速度才是第二位的。最稳定的翻墙机场 (https://yifancloud.one/auth/register?code=awwp)
 
 <!---
 yifancloud/yifancloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
